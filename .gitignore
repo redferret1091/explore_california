@@ -1,2 +1,8 @@
+#Comment- hashtag sign is used for comments
 *.txt
+.DS_store
+*.zip
+*.giz
+log/*.log
+log/*.log.[0-9]
 
