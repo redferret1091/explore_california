@@ -1,6 +1,7 @@
 
 #Comment- hashtag sign is used for comments
 tempfile.txt
+tempfile2.txt
 .DS_store
 *.zip
 *.giz
